@@ -1,0 +1,7 @@
+.NotFound {
+  height: 91vh;
+  background-repeat: repeat;
+  background: url("../../images/stars.svg") repeat center center fixed;
+  background-color: #1b1b25;
+  background-size: cover;
+}
